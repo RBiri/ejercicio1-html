@@ -1,0 +1,14 @@
+img{
+    width: 250px;
+    height: 200px;
+}
+ul {
+    list-style-type: none;
+  }
+li{
+    background-color: skyblue;
+    border: black 1px solid;
+    float: left;
+    /* con margin hago una separacion entre los elementos en todas direcciones*/
+    margin: 5px;
+}
